@@ -1,4 +1,4 @@
-# Speech Synthesis Content Script for Browser Extension
+# Accessibility Browser Extension for the Visually Impaired
 
 ## Overview
 
